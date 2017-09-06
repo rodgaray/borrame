@@ -1,0 +1,6 @@
+.containerUno{
+	border:solid 4px;
+	margin-bottom: 10px;
+	display: flex;
+	flex-direction:row-reverse;
+}
